@@ -1,0 +1,17 @@
+person
+ear
+ear-muffs
+face
+face-guard
+face-mask
+foot
+tool
+glasses
+gloves
+helmet
+hands
+head
+medical-suit
+shoes
+safety-suit
+safety-vest
